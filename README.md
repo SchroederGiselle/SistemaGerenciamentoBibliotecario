@@ -33,8 +33,8 @@ Implementar um Sistema de Gerenciamento de Biblioteca para gerenciar diferentes 
 - `Book` pode ter uma propriedade `genre` (ge/nero) e um método `readSample()` (ler
 amostra).
 
-- `Magazine` pode ter uma propriedade `issueNumber` (numero da ediça"o) e um método
-`flipPages()` (folhear paginas).
+- `Magazine` pode ter uma propriedade `issueNumber` (número da ediça"o) e um método
+`flipPages()` (folhear páginas).
 
 - `DigitalMedia` pode ter uma propriedade `fileFormat` (formato de arquivo) e um método `play()` (reproduzir).
 
